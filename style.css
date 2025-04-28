@@ -7,15 +7,21 @@
   background-color: yellow;
 }
 
-.name {
-  font-size: ________;
-  font-weight: ________;
+.Name {
+  font-size: 5px;
+  font-weight: bold;
   text-align: center;
 }
 
-._________ {
-  font-size: ________;
-  color: ________;
+.Bio {
+  font-size: 5px;
+  color: pink;
   text-align: center;
 }
+
+img {
+  width: 5px;
+  border-radius: 5px;
+}
+
 
