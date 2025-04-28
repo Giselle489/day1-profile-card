@@ -1,1 +1,21 @@
 
+#profileCard {
+  width: 4px;
+  padding: 10px;
+  border: 3px solid black;
+  margin: 11px;
+  background-color: yellow;
+}
+
+.name {
+  font-size: ________;
+  font-weight: ________;
+  text-align: center;
+}
+
+._________ {
+  font-size: ________;
+  color: ________;
+  text-align: center;
+}
+
